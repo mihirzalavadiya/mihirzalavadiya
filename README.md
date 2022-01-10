@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... Kristal.AI
+- 🌱 I’m currently learning ... React JS, Next JS
+- I am IT professional. I am a lifetime learner and learning from everyone. I am focusing on to secure a challenging position in an organization which encourages my career and enhances growth of my skills to use the same for the growth of the company with dedication while gaining valuable experience.
+- 📫 How to reach me,
+-  https://www.linkedin.com/in/mihirzalavadiya/
+-  mihirzalavadiya@gmail.com
 <!--
 **mihirzalavadiya/mihirzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
