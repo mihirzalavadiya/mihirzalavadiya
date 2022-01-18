@@ -1,5 +1,4 @@
 <h1>Hi 👋 friends</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirzalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="mihirzalavadiya" /> </p>
 - 🌱 I’m currently learning: <b>React JS & Next JS</b>
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
@@ -30,6 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></p>
 
 <!--
 **mihirzalavadiya/mihirzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
