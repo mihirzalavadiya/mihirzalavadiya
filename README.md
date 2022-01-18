@@ -25,14 +25,15 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>&nbsp;&nbsp; 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> &nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> &nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p> -->
 </p>
 
 <p>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></span>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p> -->
-<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></span>
+
 </p>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></span>
 <!--
 **mihirzalavadiya/mihirzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
