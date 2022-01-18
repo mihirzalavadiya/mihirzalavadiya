@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirzalavadiya" alt="mihirzalavadiya" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirzalavadiya" alt="mihirzalavadiya" /></a> </p> -->
 
 - 🌱 I’m currently learning **React JS and Next JS**
 
