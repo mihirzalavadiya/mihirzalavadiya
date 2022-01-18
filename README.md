@@ -33,9 +33,8 @@
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></span>
 </p>
 
-<p>
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p>
-</p>
 
 
 
