@@ -1,9 +1,9 @@
 <h1>Hi 👋 friends</h1>
-- 🌱 I’m currently learning <b style="color: red">React JS and Next JS</b>
+- 🌱 I’m currently learning: <b>React JS & Next JS</b>
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
 
-- 💬 Ask me about **I am IT professional. I am a lifetime learner and learning from everyone. I am focusing on to secure a challenging position in an organization which encourages my career and enhances growth of my skills to use the same for the growth of the company with dedication while gaining valuable experience.**
+- 💬 Ask me about: <br /><b>I am IT professional. I am a lifetime learner and learning from everyone. I am focusing on to secure a challenging position in an organization which encourages my career and enhances growth of my skills to use the same for the growth of the company with dedication while gaining valuable experience.</b>
 
 - 📫 How to reach me **mihirzalavadiya@gmail.com**
 
