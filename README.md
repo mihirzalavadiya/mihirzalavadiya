@@ -1,5 +1,5 @@
 <h1>Hi 👋 friends</h1>
-- 🌱 I’m currently learning **React JS and Next JS**
+- 🌱 I’m currently learning <b>React JS and Next JS</b>
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mihirzalavadiya@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="font-family: 'Lucida Console';">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zalavadiyamihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zalavadiyamihir" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/mihirzalavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihirzalavadiya" height="20" width="20" /></a>&nbsp;
