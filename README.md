@@ -1,5 +1,4 @@
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirzalavadiya" alt="mihirzalavadiya" /></a> </p> -->
-
+<h1 align="center">Hi 👋 friends</h1>
 - 🌱 I’m currently learning **React JS and Next JS**
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
@@ -10,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zalavadiyamihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zalavadiyamihir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mihirzalavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihirzalavadiya" height="30" width="40" /></a>
+<a href="https://twitter.com/zalavadiyamihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zalavadiyamihir" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/mihirzalavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihirzalavadiya" height="20" width="20" /></a>
+<a href="https://fb.com/mihir.zalavadiya.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihir.zalavadiya.52" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
