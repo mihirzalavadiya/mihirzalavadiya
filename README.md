@@ -30,10 +30,10 @@
 
 <p>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></span>
 
 </p>
-<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></span>
+<span><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></span>
 <!--
 **mihirzalavadiya/mihirzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
