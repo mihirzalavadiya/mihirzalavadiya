@@ -1,4 +1,5 @@
 <h1>Hi 👋 friends</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirzalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="mihirzalavadiya" /> </p>
 - 🌱 I’m currently learning: <b>React JS & Next JS</b>
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
