@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 friends</h1>
+<h1>Hi 👋 friends</h1>
 - 🌱 I’m currently learning **React JS and Next JS**
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
@@ -25,7 +25,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></p>
 
 <!--
 **mihirzalavadiya/mihirzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
