@@ -29,8 +29,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirzalavadiya&show_icons=true&locale=en&layout=compact" alt="mihirzalavadiya" /></p>
-
-
+<p>.</p>
 <p style="margin-top: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&show_icons=true&locale=en" alt="mihirzalavadiya" /></p>
 
 
