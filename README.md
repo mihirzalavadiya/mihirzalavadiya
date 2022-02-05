@@ -1,4 +1,5 @@
 <h1>Hi 👋 friends</h1>
+
 - 🌱 I’m currently learning: <b>React JS & Next JS</b>
 
 - 🔭 I’m currently working on <b>Next JS</b>
