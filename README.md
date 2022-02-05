@@ -1,5 +1,6 @@
 <h1>Hi 👋 friends</h1>
 - 🌱 I’m currently learning: <b>React JS & Next JS</b>
+
 - 🔭 I’m currently working on <b>Next JS</b>
 
 - 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
