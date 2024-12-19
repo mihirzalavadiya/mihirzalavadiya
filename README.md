@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <b>Next JS</b>
 
-- 👨‍💻 All of my projects are available at [https://mihirzalavadiya.github.io/](https://mihirzalavadiya.github.io/)
+- 👨‍💻 All of my projects are available at [https://mihirzalavadiya.netlify.app/](https://mihirzalavadiya.netlify.app/)
 
 - 💬 Ask me about: <br /><b>I am IT professional. I am a lifetime learner and learning from everyone. I am focusing on to secure a challenging position in an organization which encourages my career and enhances growth of my skills to use the same for the growth of the company with dedication while gaining valuable experience.</b>
 
