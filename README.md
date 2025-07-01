@@ -35,7 +35,7 @@
 
 <p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mihirzalavadiya&theme=monokai&show_icons=true&locale=en" alt="mihirzalavadiya" /></p>
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirzalavadiya&theme=monokai" /></p>
+<br><p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirzalavadiya&theme=monokai" /></p>
 
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirzalavadiya&" alt="mihirzalavadiya" /></p> -->
